@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d Kontaktů</item>
+        <item quantity="one">%d Kontaktů</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d Zpráv</item>
+        <item quantity="one">%d Zpráv</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d Poznámek</item>
+        <item quantity="one">%d Poznámek</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d Fotografií</item>
+        <item quantity="one">%d Fotografií</item>
+    </plurals>
+</resources>

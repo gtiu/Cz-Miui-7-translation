@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">jako poslední %d dnů</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 Včera</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d vybráno</item>
+        <item quantity="one">%1$d vybráno</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d Shody</item>
+        <item quantity="one">%d Shody</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d Blokovaných</item>
+        <item quantity="one">%d Blokovaných</item>
+    </plurals>
+</resources>

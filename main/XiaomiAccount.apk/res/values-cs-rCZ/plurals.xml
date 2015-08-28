@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Aktualizované %s kontakty</item>
+        <item quantity="one">Aktualizované %s kontakty</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d Kontakty</item>
+        <item quantity="one">%d Kontakty</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">%d SMS</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d Poznámky</item>
+        <item quantity="one">%d Poznámky</item>
+    </plurals>
+</resources>
